@@ -399,3 +399,18 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+
+# Build outputs
+bin/
+obj/
+
+# Visual Studio user settings
+*.csproj.user
+*.suo
+
+# Local development settings
+appsettings.Development.json
+
+# Visual Studio
+.vs/
